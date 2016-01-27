@@ -530,11 +530,12 @@ a.button small {
   display: block;
   font-size: 11px;
 }
-header a.button {
+header img.logo {
   position: absolute;
   top: 0;
   right: 0;
-  background: transparent url(../images/github-button.png) 0 0 no-repeat;
+  width: 120px;
+    height: 120px;
 }
 aside a.button {
   display: block;
@@ -543,6 +544,12 @@ aside a.button {
   margin-bottom: 20px;
   font-size: 21px;
   background: transparent url(../images/download-button.png) 0 0 no-repeat;
+}
+
+aside img.logo {
+    width: 120px;
+    height: 120px;
+    margin-bottom: 20px;
 }
 
 code, pre {

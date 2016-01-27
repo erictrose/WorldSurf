@@ -6,4 +6,4 @@ World Surf
 [Design Sketches](http://imgur.com/a/niM11) <br>
 [Prototype](http://imgur.com/ZC9Bfbl)
 
-Interface [usability tests](https://usabilityhub.com/). <br>
+Interface design and [usability tests](https://usabilityhub.com/). <br>
